@@ -1,4 +1,4 @@
-<------------------------coversion into balance tree----------------------->
+<------------------------coversion into balance tree------------------------>
 #include<stdio.h>
 #include<stdlib.h>
 struct node {
